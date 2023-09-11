@@ -12,7 +12,8 @@ createApp({
     data(){
         return{
             message: 'Hello Vue',
-
+            /*Bonus*/
+            image: 'Vue.js_Logo_2.svg.png'
         }
     }
 }).mount('#app')
